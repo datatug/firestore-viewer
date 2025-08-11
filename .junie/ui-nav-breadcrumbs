@@ -1,0 +1,5 @@
+# UI Component: Navigation breadcrumbs
+
+This a navigation component displayed at top of the screen using [breadcrumbs component](./ui-breadcrumbs.md).
+It is NOT shown for main menu.
+If shown the fist element is showing the active account name (_either service or user account_)
